@@ -1,0 +1,6 @@
+[submodule "glaze"]
+	path = glaze
+	url = git@github.com:stephenberry/glaze.git
+[submodule "json"]
+	path = json
+	url = git@github.com:nlohmann/json.git
